@@ -16,6 +16,8 @@ For more information on the dataset please refer to the publication:
 Development of a Comprehensive Antibody Staining Database Using a Standardized Analytics Pipeline
 El-ad David Amir, Brian Lee, Paul Badoua Martin Gordon, Xinzheng V. Guo, Miriam Merad, and Adeeb H. Rahman (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6579881/)
 
+## Observable Notebook
+https://observablehq.com/@ismms-himc/legend-screen-cytof
 
 
 ## Clustergrammer
