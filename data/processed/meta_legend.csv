@@ -11,10 +11,10 @@ CD4+ T Cell (Effector Memory),CD4 T Cell
 CD4+ T Cell (Naive),CD4 T Cell
 CD4+ T Cell (Treg),CD4 T Cell
 CD4- CD8- T Cell,CD4- CD8- T Cell
-CD8+ T Cell (Central Memory),
-CD8+ T Cell (EMRA),
-CD8+ T Cell (Effector Memory),
-CD8+ T Cell (Naive),
+CD8+ T Cell (Central Memory),CD8 T Cell
+CD8+ T Cell (EMRA),CD8 T Cell
+CD8+ T Cell (Effector Memory),CD8 T Cell
+CD8+ T Cell (Naive),CD8 T Cell
 "Dendritic Cell (Type 2, CD1c+)",Dendritic Cell
 Granulocyte,Granulocyte
 Monocyte (CD14+ CD16+),Monocyte
